@@ -135,9 +135,8 @@ telco-churn-analysis/
 │
 ├── powerbi/
 │   └── telco_churn_dashboard.pbix
+│   └── telco_churn_dashboard.pdf
 │
-├── screenshots/
-│   └── dashboard.png
 │
 └── README.md
 ```
