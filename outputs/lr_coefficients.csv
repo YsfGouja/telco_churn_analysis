@@ -1,0 +1,24 @@
+Feature,Coefficient,Direction
+cat__Contract_Two year,-1.4163793909785902,Associated with lower churn
+num__tenure,-1.156804941001357,Associated with lower churn
+cat__InternetService_No,-1.1138117065415678,Associated with lower churn
+cat__Contract_One year,-0.7190348705584438,Associated with lower churn
+num__MonthlyCharges,-0.36772473684225243,Associated with lower churn
+cat__OnlineSecurity_Yes,-0.3609861660087851,Associated with lower churn
+cat__TechSupport_Yes,-0.29603539505083315,Associated with lower churn
+cat__PhoneService_Yes,-0.2797018232696534,Associated with lower churn
+cat__Dependents_Yes,-0.2304864281567105,Associated with lower churn
+cat__OnlineBackup_Yes,-0.0988672846678347,Associated with lower churn
+cat__PaymentMethod_Credit card (automatic),0.0027440611772398824,Associated with higher churn
+cat__DeviceProtection_Yes,0.012985121396209082,Associated with higher churn
+cat__Partner_Yes,0.019716112349431658,Associated with higher churn
+cat__gender_Male,0.032086328882250784,Associated with higher churn
+cat__PaymentMethod_Mailed check,0.05335258218480138,Associated with higher churn
+bin__SeniorCitizen,0.15318532756188938,Associated with higher churn
+cat__MultipleLines_Yes,0.2955159475572573,Associated with higher churn
+cat__PaperlessBilling_Yes,0.3385406668108005,Associated with higher churn
+cat__StreamingTV_Yes,0.3386238152351849,Associated with higher churn
+cat__StreamingMovies_Yes,0.3638014192313016,Associated with higher churn
+cat__PaymentMethod_Electronic check,0.4058486261409965,Associated with higher churn
+num__TotalCharges,0.4858261253342979,Associated with higher churn
+cat__InternetService_Fiber optic,1.078480047419813,Associated with higher churn
